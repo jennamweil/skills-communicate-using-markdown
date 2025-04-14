@@ -11,3 +11,8 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+
+- [x] Do laundry
+- [ ] Mop the floors
+- [x] Buy groceries 
